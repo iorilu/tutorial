@@ -6,3 +6,5 @@ git commit
 
 git branch
 git log
+git remote
+
